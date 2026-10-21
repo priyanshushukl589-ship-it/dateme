@@ -27,8 +27,8 @@ You do **not** need to know how to code. Just follow the steps in order. Total t
 5. **Make testing easy:** left menu → **Authentication** → **Sign In / Providers** (or just *Providers*) → **Email** → switch **"Confirm email" OFF** → Save.
    *(Turn it back ON before you invite real users.)*
 6. Get your two keys: **Project Settings** (gear icon) → **API** (or **API Keys**). Copy:
-   - **Project URL** (looks like `https://abcdxyz.supabase.co`:  https://spmhebhmtbzvtzoqvsxw.supabase.co)
-   - **anon / public key** (newer dashboards call it the **publishable key:  sb_publishable_Aka5Vt0afjGqnDwazijghw_lRn_PjHG**)
+   - **Project URL** (looks like `https://abcdxyz.supabase.co`)
+   - **anon / public key** (newer dashboards call it the **publishable key**)
 
    ⚠️ Never use the `service_role` / `secret` key anywhere in this project.
 
